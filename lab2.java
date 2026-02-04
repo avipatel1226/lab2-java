@@ -14,9 +14,14 @@ public class Lab2 {
         // Example: {"Milk", "Eggs", "Bread", ... }
         // ================================================
         String[] groceries = {
-            // TODO: Fill in your grocery items
+                 "Milk",
+                 "Eggs",
+                 "Bread",
+                 "Apples",
+                "Onions",
+                "Rice"
         };
- 
+
         // ================================================
         // STEP 2: Print the array using Arrays.toString()
         // ================================================
